@@ -71,10 +71,10 @@ const stack = {
 ![Current Focus](https://img.shields.io/badge/-%20Current%20Focus-red)
 ![semicolon](https://img.shields.io/badge/-%3A-red)
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;Building full-stack projects with the help of AI, from frontend to backend.
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   Building **Full-Stack** projects with the help of AI, from **Frontend to Backend**.
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;Exploring AI tools and finding better ways to build projects.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Working with React, Next.js, TypeScript, Node.js, and databases while learning along the way.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Exploring **AI tools** and finding better ways to build projects.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Working with **React, Next.js, TypeScript, Node.js, and databases** while learning along the way.
 
 <br>
 <hr></hr>
