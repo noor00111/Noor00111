@@ -71,10 +71,15 @@ const stack = {
 ![Current Focus](https://img.shields.io/badge/-%20Current%20Focus-red)
 ![semicolon](https://img.shields.io/badge/-%3A-red)
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Recently exploring web animation techniques using **GSAP**, **Locomotive Scroll**, **ScrollTrigger**, and advanced **text scroll effects**! <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Diving into **TypeScript** and **Next.js** to strengthen full-stack development skills! <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Learning the fundamentals of **Redux** for **state management**! <br>
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Building **full-stack web applications** with AI-assisted development, turning ideas into real-world projects from frontend to backend.
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring **AI-powered development workflows** to build smarter, faster, and more efficient applications.
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Working across **React, Next.js, TypeScript, Node.js, Express, and databases** while continuously improving my engineering skills.
+
+<br>
 <hr></hr>
 
 ![My Stats](https://img.shields.io/badge/-%20My%20Stats-red)
